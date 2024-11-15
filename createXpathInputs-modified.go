@@ -1,5 +1,3 @@
-#temp comment
-
 package main
 
 import (
